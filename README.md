@@ -32,7 +32,7 @@ This tool automates the process by:
 
 ---
 
-### 🧱 レイヤー構成（Aseprite内）
+### 🧱 Layer Layout（In Aseprite）
 ![Layer Layout](Ninja_Example/Layer_layout.png)
 
 - **Slash** — White sword trail VFX
